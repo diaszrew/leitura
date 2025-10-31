@@ -258,7 +258,7 @@
     "cpf": "33322704866",
     "cargo": "GERENTE DE PLANEJAMENTO E CONTROLE",
     "departamento": "PMO",
-    "gestorDireto": "ANDRE FRIGATTO"
+    "gestorDireto": "RONNY DE OLIVEIRA BOUCINHA"
   },
   {
     "id": 1466887,
@@ -267,7 +267,7 @@
     "cpf": "43926981814",
     "cargo": "Gerente de Orçamentos",
     "departamento": "SEDE",
-    "gestorDireto": "ANDRE FRIGATTO"
+    "gestorDireto": "MARCO ALBERTO DA SILVA"
   },
   {
     "id": 1466891,
@@ -447,7 +447,7 @@
     "cpf": "32786362873",
     "cargo": "DIRETOR DE PRÉ VENDA",
     "departamento": "IT",
-    "gestorDireto": "ADILSON JOSE JESUS DOS SANTOS"
+    "gestorDireto": "FABIO CAMARA"
   },
   {
     "id": 1476663,
@@ -762,7 +762,7 @@
     "cpf": "50407478884",
     "cargo": "Assistente DP",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARIA MARQUES"
+    "gestorDireto": "KATIA REGINA SILVA"
   },
   {
     "id": 1476883,
@@ -1867,9 +1867,9 @@
     "nome": "ALESSANDRO PACHECO",
     "email": "alessandro.pacheco@engemon.com.br",
     "cpf": "20610780875",
-    "cargo": "ANALISTA DE PROCESSOS SR",
+    "cargo": "Diretor Jurídico",
     "departamento": "JURIDICO",
-    "gestorDireto": "ANDRE FRIGATTO"
+    "gestorDireto": "ROBSON PORFIRIO DA ROCHA"
   },
   {
     "id": 1477353,
@@ -1896,7 +1896,7 @@
     "cpf": "02541933584",
     "cargo": "GERENTE COMERCIAL",
     "departamento": "ENGEMON ENERGY",
-    "gestorDireto": "JORGE BERGER"
+    "gestorDireto": "RENATO AREAS"
   },
   {
     "id": 1477367,
@@ -6369,7 +6369,7 @@
     "cpf": "3267726778",
     "cargo": "DIRETOR EXECUTIVO",
     "departamento": "ENGEMON ENERGY",
-    "gestorDireto": null
+    "gestorDireto": "JORGE BERGER"
   },
   {
     "id": 2183979,
@@ -6387,7 +6387,7 @@
     "cpf": "04835203810",
     "cargo": "Gerente de Segurança, Meio Ambiente, Saúde e  Comunicação/Responsabilidade Social",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS RENATO TEIXEIRA DA CUNHA"
+    "gestorDireto": "RONNY DE OLIVEIRA BOUCINHA"
   },
   {
     "id": 2184041,
@@ -6783,7 +6783,7 @@
     "cpf": "29911675807",
     "cargo": "Gerente de Suprimentos",
     "departamento": "SUPPLY CHAIN",
-    "gestorDireto": "PRESIDÊNCIA"
+    "gestorDireto": "ROBSON PORFIRIO DA ROCHA"
   },
   {
     "id": 2275444,
@@ -7746,7 +7746,7 @@
     "cpf": "52849747866",
     "cargo": "Assistente DP",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARIA MARQUES"
+    "gestorDireto": "KATIA REGINA SILVA"
   },
   {
     "id": 2349842,
@@ -9780,7 +9780,7 @@
     "cpf": "35171629811",
     "cargo": "ANL RECURSOS HUMANOS",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "AMANDA PERUFFO RAMOS"
+    "gestorDireto": "THAIS DA SILVA PIPERNO PIZZICOLA"
   },
   {
     "id": 2448348,
@@ -10509,7 +10509,7 @@
     "cpf": "84171723949",
     "cargo": "GERENTE MARKETING",
     "departamento": "MARKETING",
-    "gestorDireto": "FABIO CAMARA"
+    "gestorDireto": "Daniel Nadalutti"
   },
   {
     "id": 2466264,
@@ -14438,7 +14438,7 @@
   {
     "id": 2516935,
     "nome": "YASMIM ARRUDA DE BRITO CARVALH",
-    "email": "bryto.yasmim@gmail.com",
+    "email": "yasmim.carvalho@engemonit.com.br",
     "cpf": "48474334837",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673",
@@ -16900,5 +16900,698 @@
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-DPSP/SER DESK E FIELD_506334",
     "gestorDireto": "MICHELE BARONI FONTES"
+  },
+  {
+    "id": 2544679,
+    "nome": "IKARO GONCALVES FERREIRA",
+    "email": "ikarogoncalves123@gmail.com",
+    "cpf": "55253879803",
+    "cargo": "TEC SUPORTE PL",
+    "departamento": "IT-CIELO/SD_FD_506675",
+    "gestorDireto": "WAGNER GOES"
+  },
+  {
+    "id": 2544680,
+    "nome": "LUCAS MAUERWERK MENDES",
+    "email": "Lucasmauerwerk1310@gmail.com",
+    "cpf": "12563220912",
+    "cargo": "TEC SUPORTE JR",
+    "departamento": "IT-ASSOCIACAO CONGREGACAO SC/DESK SC",
+    "gestorDireto": "ELAINE MENDES RAMALHO"
+  },
+  {
+    "id": 2544681,
+    "nome": "JULIANA DE JESUS FONSECA",
+    "email": "julianajufonseca.32@gmail.com",
+    "cpf": "33136436806",
+    "cargo": "TEC SUPORTE JR",
+    "departamento": "IT-CIELO/SD_FD_506675",
+    "gestorDireto": "KELLY CRISTHINE DE SA FERREIRA"
+  },
+  {
+    "id": 2544682,
+    "nome": "LUIZ ROBERTO CHAGA DE ANDRADE",
+    "email": "robertochagas.ti@gmail.com",
+    "cpf": "14411698730",
+    "cargo": "TEC SUPORTE JR",
+    "departamento": "IT-ASSOCIACAO CONGREGACAO SC/DESK SC",
+    "gestorDireto": "ELAINE MENDES RAMALHO"
+  },
+  {
+    "id": 2548312,
+    "nome": "TIAGO LEITE DA SILVA",
+    "email": "tiagoleitewd@gmail.com",
+    "cpf": "21332149847",
+    "cargo": "ALMOXARIFE SR",
+    "departamento": "EQUINIX SP6X",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548313,
+    "nome": "LIDIA DE ALMEIDA PHILIPIDIS",
+    "email": "lidiaphilipidis1@gmail.com",
+    "cpf": "12391350848",
+    "cargo": "AUX LIMPEZA",
+    "departamento": "EQUINIX SP6X",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548314,
+    "nome": "KEONNY ALVES GONCALVES",
+    "email": "AKEONNY@GMAIL.COM",
+    "cpf": "46996483808",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548315,
+    "nome": "CLAUDIO LUCIANO RANDA",
+    "email": "claudio-conan@hotmail.com",
+    "cpf": "32559584824",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548316,
+    "nome": "CLAUDIO ROBERTO DE OLIVEIRA",
+    "email": "CLAUDIOCRO@HOTMAIL.COM",
+    "cpf": "21658450841",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRESCO - MANUTENCAO PREDIAL -",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548317,
+    "nome": "VICTOR SOARES NUNES",
+    "email": "SLUH651@GMAIL.COM",
+    "cpf": "06066817523",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "ISE SCHOOL - MANUTENCAO PREDIA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548318,
+    "nome": "ANTONIO MARQUES DA SILVA",
+    "email": "ANTONIOSILVA121971@GMAIL.COM",
+    "cpf": "76032370410",
+    "cargo": "SUPERV MANUT",
+    "departamento": "UOL - MANUT PREDIAL 1011281 FA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548319,
+    "nome": "EDSON ALVES DA SILVA",
+    "email": "Edsilaves1371@gmail.com",
+    "cpf": "87650509591",
+    "cargo": "MEC REFRIGERACAO II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548320,
+    "nome": "VALMIR JOSE DE CASTRO",
+    "email": "VALMIR.J.CASTRO643@OUTLOOK.COM",
+    "cpf": "64397831653",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548321,
+    "nome": "LEANDRO DE SOUZA ALVES",
+    "email": "LILEANDRO955@GMAIL.COM",
+    "cpf": "34002776816",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548322,
+    "nome": "EDVAN BORGES LOPES",
+    "email": "EDVANLOPES00@OUTLOOK.COM",
+    "cpf": "37534636809",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548323,
+    "nome": "MURILO PARANHO SILVA CAMPOS",
+    "email": "CONTATO.MURILOPSC@GMAIL.COM",
+    "cpf": "40160745845",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548324,
+    "nome": "FERNANDO AUGUSTO GUIMARAES",
+    "email": "fernando-999@hotmail.com",
+    "cpf": "39122163808",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548325,
+    "nome": "TIAGO PITONDO",
+    "email": "TIAGOPITONDO@OUTLOOK.COM",
+    "cpf": "22801388831",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548326,
+    "nome": "ANTONIO DOS SANTOS E SILVA",
+    "email": "ANTONIOCLEMAR@GMAIL.COM",
+    "cpf": "09241794810",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548327,
+    "nome": "FRANCISCO DA SILVA BARBOSA",
+    "email": "franciscos.barbosa@hotmail.com",
+    "cpf": "00919611303",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548328,
+    "nome": "PAULO HENRIQUE FLORENCIO DE SO",
+    "email": "EVERY_BLUEE@HOTMAIL.COM",
+    "cpf": "32029409880",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548329,
+    "nome": "CLAUDIOMIRO DA SILVA",
+    "email": "ENGEINSTEC@GMAIL.COME",
+    "cpf": "46412190015",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548330,
+    "nome": "ADRIANO GOMES DA SILVA",
+    "email": "AGSILVA1995@GMAIL.COM",
+    "cpf": "70198671466",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548331,
+    "nome": "PEDRO HENRIQUE ALVES GALDINO",
+    "email": "PEDROGALDINO070@GMAIL.COM",
+    "cpf": "52606963873",
+    "cargo": "AUX ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548332,
+    "nome": "LEONARDO LIMA DO VALE NETO",
+    "email": "LEONETO102@GMAIL.COM",
+    "cpf": "03197554361",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548333,
+    "nome": "WESLEY DA SILVA MESQUITA",
+    "email": "wesleymesquita568@gmail.com",
+    "cpf": "42779246898",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548334,
+    "nome": "JEAN DANTAS DA SILVA",
+    "email": "JEAN.JDSCLIMATIZA@GMAIL.COM",
+    "cpf": "47494262881",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548335,
+    "nome": "ERYSON DE BARROS MONTEIRO",
+    "email": "ERYSONMONTEIRO14@GMAIL.COM",
+    "cpf": "41275864864",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548336,
+    "nome": "ADILSON BERNARDO DE LIRA",
+    "email": "BERNARDOLIRA51@GMAIL.COM",
+    "cpf": "21511459808",
+    "cargo": "AUX ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548337,
+    "nome": "IGOR CORREA DA SILVA",
+    "email": "IGORPEIXE8@GMAIL.COM",
+    "cpf": "46275526882",
+    "cargo": "MEC REFRIGERACAO I",
+    "departamento": "UNICHARM JAGUARIUNA MANUT HVAC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548338,
+    "nome": "ISABELA NASCIMENTO SANTOS",
+    "email": "ISABELLA_NS10@GMAIL.COM",
+    "cpf": "44861099889",
+    "cargo": "ANL ADMINISTRATIVO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548339,
+    "nome": "VERONICA EDUARDA DOMENEGUETI",
+    "email": "VEDUARDA16@HOTMAIL.COM",
+    "cpf": "46446725809",
+    "cargo": "TEC SEG TRABALHO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548340,
+    "nome": "ELIAS MAXIMINO DOS SANTOS",
+    "email": "eias.maximino@gmail.com",
+    "cpf": "23256794890",
+    "cargo": "OPERADOR BMS I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548341,
+    "nome": "JUARES ALVES",
+    "email": "JUARESALVES41@GMAIL.COM",
+    "cpf": "05863557826",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548342,
+    "nome": "ANTONIO CARLOS DA SILVA MEDEIR",
+    "email": "ANTONIOCARLOSDASILVAMEDEIROS8@GMAIL.COM",
+    "cpf": "33040017861",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548343,
+    "nome": "LEONARDO COELHO NUNES",
+    "email": "LEONARDOCOELHO13@OUTLOOK.COM",
+    "cpf": "38379539800",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548344,
+    "nome": "ALEXANDRE DOS SANTOS",
+    "email": "ASANTOS290280@GMAIL.COM",
+    "cpf": "29004149899",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548345,
+    "nome": "RAPHAEL MATIAS DO NASCIMENTO",
+    "email": "RAPHARNM23@GMAIL.COM",
+    "cpf": "39760067854",
+    "cargo": "1/2 OFICIAL",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548346,
+    "nome": "JOAO PAULO DUZZI",
+    "email": "Joaopaulo.popo_@hotmail.com",
+    "cpf": "40512832838",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548347,
+    "nome": "GILSON BEZERRA DE CARVALHO",
+    "email": "GILSONBEZERRADECARVALHO709@GMAIL.COM",
+    "cpf": "12798466822",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548348,
+    "nome": "TARCISIO PAULO DE SENA",
+    "email": "ZIZOSENA@GMAIL.COM",
+    "cpf": "27651840895",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548349,
+    "nome": "LEANDRO AGOSTINHO DE SOUZA",
+    "email": "AGOSTINHOLEANDROSOUZA1975@GMAIL.COM",
+    "cpf": "16817197899",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548350,
+    "nome": "ALEXANDRE BRAUN",
+    "email": "BRAUNALEXANDRE577@GMAIL.COM",
+    "cpf": "29271305825",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548351,
+    "nome": "LUIZ VINICIUS DA SILVA",
+    "email": "LUIZVINICIUSSILVA.ELETRO@GMAIL.COM",
+    "cpf": "02281418189",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548352,
+    "nome": "FLAVIO FERNANDES DA SILVA",
+    "email": "FLAVIO_SILVAPH@HOTMAIL.COM",
+    "cpf": "05571837667",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548353,
+    "nome": "MARCOS ANTONIO BARBOSA DA SILV",
+    "email": "MARCOSTALSILVA0304@GMAIL.COM",
+    "cpf": "02347328220",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548354,
+    "nome": "DEYLLER TAVARES DO NASCIMENTO",
+    "email": "DEYLLERT@GMAIL.COM",
+    "cpf": "05757200502",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548355,
+    "nome": "FABIANO PEREIRA TAVARES FILHO",
+    "email": "FABIANO.PROFISSIONAL13@GMAIL.COM",
+    "cpf": "47329501832",
+    "cargo": "AUX REFRIGERACAO",
+    "departamento": "SIEMENS - MANUTENCAO E LIMPEZA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548356,
+    "nome": "FERNANDO JOSE FELICETTI MELENA",
+    "email": "FJFELICETTI52@GMAIL.COM",
+    "cpf": "08690566899",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "GESTAO VOLANTES SP",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548357,
+    "nome": "ALESSON CORREA DE SOUZA",
+    "email": "ALESSONC3@GMAIL.COM",
+    "cpf": "41247023885",
+    "cargo": "OP DATA CENTER JR",
+    "departamento": "NEXTSTREAM - CIC - MANUT RENOV",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548358,
+    "nome": "ELIZEU DE ALMEIDA RODRIGUES",
+    "email": "ELIZEUAR@HOTMAIL.COM",
+    "cpf": "11570696730",
+    "cargo": "TEC REFRIGERACAO III",
+    "departamento": "CLARO ARCON 1011822",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548360,
+    "nome": "CELIO PEREIRA DA SILVA",
+    "email": "CELIOPEREIRACP279@GMAIL.COM",
+    "cpf": "04040433483",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "SIEMENS - MANUTENCAO E LIMPEZA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548361,
+    "nome": "LUCAS CARDOSO MACEDO DOS SANTO",
+    "email": "CARDOSOTRANCE@GMAIL.COM",
+    "cpf": "41125405821",
+    "cargo": "ANL PLANEJAMENTO JR",
+    "departamento": "CIRION -CONTRATO DE MANUT INFR",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548362,
+    "nome": "HUDSON DOMINGOS DE OLIVEIRA",
+    "email": "HUUD.OLI12@GMAIL.COM",
+    "cpf": "16537943728",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO RJ MANUT INFRA 2025",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548363,
+    "nome": "RENAN MENDONCA DOS SANTOS",
+    "email": "RENANMENDONCA2011@GMAIL.COM",
+    "cpf": "48010330833",
+    "cargo": "OP DATA CENTER JR",
+    "departamento": "NEXTSTREAM NDC - MANUT RENOV",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548364,
+    "nome": "SILAS GOMES DOS ANJOS",
+    "email": "silasgomesdosanjos216504@gmail.com",
+    "cpf": "39716640838",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "ISE SCHOOL - MANUTENCAO PREDIA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548365,
+    "nome": "ADRIANO REIS BARBOSA",
+    "email": "VITORMARTINSB52@GMAIL.COM",
+    "cpf": "32729635882",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "ISE SCHOOL - MANUTENCAO PREDIA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548366,
+    "nome": "LUIS HENRIQUE VIEIRA NASCIMENT",
+    "email": "luishenrique250k@gmail.com",
+    "cpf": "39431875861",
+    "cargo": "LID MANUTENCAO",
+    "departamento": "UOL - MANUT PREDIAL 1011281 FA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548367,
+    "nome": "RODOLFO YURI DE ALMEIDA FONTAN",
+    "email": "RODOLFOYURISP@GMAIL.COM",
+    "cpf": "41681539837",
+    "cargo": "ELETRICISTA",
+    "departamento": "UOL - MANUTENCAO PREDIAL 10112",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548368,
+    "nome": "YVES CAMARGO SILVA",
+    "email": "YVESCAMARGO@GMAIL.COM",
+    "cpf": "47325082860",
+    "cargo": "AUX MANUTENCAO",
+    "departamento": "UOL - MANUT PREDIAL 1011281 FA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548369,
+    "nome": "EDVALDO MARCELO SANTOS",
+    "email": "MARCELO.EDVALDO.EDMOP@GMAIL.COM",
+    "cpf": "60232919534",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548370,
+    "nome": "ANDERSON SANTIAGO CALHEIROS",
+    "email": "andersoncalheiros28@hotmail.com",
+    "cpf": "30907762867",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548371,
+    "nome": "RAFAEL DA SILVA ALMEIDA",
+    "email": "RAFA_ZL2020@OUTLOOK.COM",
+    "cpf": "23333608871",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548372,
+    "nome": "RAFAEL ALMEIDA SANTOS",
+    "email": "RAFINHASP1972@GMAIL.COM",
+    "cpf": "44861521823",
+    "cargo": "AUX ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548373,
+    "nome": "EDER VIANA DE MELO",
+    "email": "EDDERVIANNA@YAHOO.COM.BR",
+    "cpf": "43814597842",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548374,
+    "nome": "PEDRO VINICIUS PEREIRA VAZ",
+    "email": "Pedrovazjal@gmail.com",
+    "cpf": "50414450876",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548375,
+    "nome": "THIAGO FERREIRA PIMENTA",
+    "email": "thiago_pimenta_13@hotmail.com",
+    "cpf": "39208449807",
+    "cargo": "MEC REFRIGERACAO II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548376,
+    "nome": "PAULO ROBERTO DA SILVA LEITE",
+    "email": "PAULORSL43@GMAIL.COM",
+    "cpf": "36632099890",
+    "cargo": "MEC REFRIGERACAO III",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548377,
+    "nome": "CARLOS ANTONIO BREDA JUNIOR",
+    "email": "JUNIORBREDA097@GMAIL.COM",
+    "cpf": "44447336839",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548378,
+    "nome": "RICARDO DA SILVA",
+    "email": "RICARDODASILVASILVA529@GMAIL.COM",
+    "cpf": "14923154861",
+    "cargo": "MEC REFRIGERACAO II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548379,
+    "nome": "FABIO LUIS DE OLIVEIRA",
+    "email": "FL888877@GMAIL.COM",
+    "cpf": "18557411804",
+    "cargo": "AUX ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548380,
+    "nome": "ISRAEL RODRIGUES DE ARAUJO",
+    "email": "ISRAEL3390SP@GMAIL.COM",
+    "cpf": "14248528894",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548381,
+    "nome": "MARCELO DE SOUSA LEAL",
+    "email": "CPFLEAL2@GMAIL.COM",
+    "cpf": "18613119824",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548382,
+    "nome": "DANIEL APARECIDO DOS SANTOS",
+    "email": "DANIELSAOPAULO01@HOTMAIL.COM",
+    "cpf": "31541543882",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548383,
+    "nome": "VICTOR JOSE SANTOS DA SILVA",
+    "email": "VIHTORSILVA954@GMAIL.COM",
+    "cpf": "49053976850",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548384,
+    "nome": "THIAGO FIGUEIREDO SIQUEIRA",
+    "email": "MARCIEDJA@GMAIL.COM",
+    "cpf": "38687912803",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2548385,
+    "nome": "LEANDRO DE OLIVEIRA ARRUDA",
+    "email": "LEANDROO.EDUARDO78@GMAIL.COM",
+    "cpf": "27636547899",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
   }
 ]
