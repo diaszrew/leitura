@@ -1212,7 +1212,7 @@
     "cpf": "29063168810",
     "cargo": "ANL REDE TLCOM N3 PL",
     "departamento": "IT",
-    "gestorDireto": "LUIZ FERNANDO GESUELE ELIAS"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 1477103,
@@ -1221,7 +1221,7 @@
     "cpf": "31764635884",
     "cargo": "ANL REDE TLCOM N3 PL",
     "departamento": "IT",
-    "gestorDireto": "LUIZ FERNANDO GESUELE ELIAS"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 1477109,
@@ -1851,7 +1851,7 @@
     "cpf": "1120283060",
     "cargo": "ENC OBRAS",
     "departamento": "GESTAO DATA CENTER",
-    "gestorDireto": "GIOVANI PADOVANI"
+    "gestorDireto": "REINALDO KAZUO NAKAMITSU"
   },
   {
     "id": 1477347,
@@ -4686,7 +4686,7 @@
     "cpf": "45198297801",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT",
-    "gestorDireto": "LUCAS DE SOUZA CAMASSUTI"
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1646549,
@@ -5622,7 +5622,7 @@
     "cpf": "00772989427",
     "cargo": "ENGENHEIRO",
     "departamento": "ENGENHARIA",
-    "gestorDireto": "LUCAS FANOEL SEVILHA GORZONI"
+    "gestorDireto": "MATHEUS URBAN DE CARVALHO"
   },
   {
     "id": 2033956,
@@ -6385,7 +6385,7 @@
     "nome": "EDMAR CONSTANTINO",
     "email": "edmar.constantino@engemon.com.br",
     "cpf": "04835203810",
-    "cargo": "Gerente de Segurança, Meio Ambiente, Saúde e  Comunicação/Responsabilidade Social",
+    "cargo": "HEAD DE QSMS/COMUNICAÇÃO",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "RONNY DE OLIVEIRA BOUCINHA"
   },
@@ -18322,5 +18322,14 @@
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2561518,
+    "nome": "VINICIUS MACANHAN",
+    "email": "vinicius.macanhan@engemon.com.br",
+    "cpf": "40232278890",
+    "cargo": "ESPECIALISTA T&D",
+    "departamento": "GENTE & GESTÃO",
+    "gestorDireto": "KASSULA FERREIRA"
   }
 ]
