@@ -1185,7 +1185,7 @@
     "cpf": "46933939839",
     "cargo": "ANL DE SUPORTE PL",
     "departamento": "IT",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1477091,
@@ -1383,7 +1383,7 @@
     "cpf": "36774296840",
     "cargo": "Encarregado De Instalações Elétrica ",
     "departamento": "GESTAO DATA CENTER",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1477179,
@@ -2076,7 +2076,7 @@
     "cpf": "24616457875",
     "cargo": "TEC SEG TRABALHO I",
     "departamento": "TECNICO DE SEGURANCA DO TRABALHO",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1477417,
@@ -2526,7 +2526,7 @@
     "cpf": null,
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "GESTÃO DE MANUTENÇÃO - SP",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1477941,
@@ -2760,7 +2760,7 @@
     "cpf": "38996618187",
     "cargo": "PEDREIRO - 01 00391",
     "departamento": "FUNCIONARIOS AFASTADOS - CONST - 01 001001000",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1478139,
@@ -2769,7 +2769,7 @@
     "cpf": null,
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "GESTÃO DE MANUTENÇÃO - SP",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1478145,
@@ -2931,7 +2931,7 @@
     "cpf": null,
     "cargo": "AUXILIAR TECNICO",
     "departamento": "GESTÃO DE MANUTENÇÃO - SP",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1478283,
@@ -2958,7 +2958,7 @@
     "cpf": null,
     "cargo": "ELETRICISTA I",
     "departamento": "GESTÃO DE MANUTENÇÃO - SP",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1478301,
@@ -3759,7 +3759,7 @@
     "cpf": null,
     "cargo": "AUX EM DOCUMENTACOES",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARIA MARQUES"
+    "gestorDireto": "ANA CAROLINA ALVES MEDEIROS"
   },
   {
     "id": 1478687,
@@ -5118,7 +5118,7 @@
     "cpf": "31705630847",
     "cargo": "OFICIAL DE MANUTENCA - 01 00376",
     "departamento": "FEMSA - GUARATINGUETA - 01 145000108",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1771924,
@@ -5235,7 +5235,7 @@
     "cpf": "184270650",
     "cargo": "TEC SEG TRABALHO I - 01 00449",
     "departamento": "EQUINIX SP7X - 01 002103000",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 1784504,
@@ -5604,7 +5604,7 @@
     "cpf": "41781674809",
     "cargo": "ASSIST ADM",
     "departamento": "DIRETORIA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2000569,
@@ -5672,10 +5672,10 @@
   {
     "id": 2038606,
     "nome": "MARIANA MEDINA TUCCI GIORA",
-    "email": "mariana.tucci@unesp.br",
+    "email": "mariana.giora@engemon.com.br",
     "cpf": "35955889833",
-    "cargo": "ESTAGIARIO",
-    "departamento": "BIM - 01 000103800",
+    "cargo": "ANL PROJETOS JR",
+    "departamento": "BIM",
     "gestorDireto": "ELLEN SAYURI OTANI DE OLIVEIRA"
   },
   {
@@ -5847,7 +5847,7 @@
     "cpf": "84169079000",
     "cargo": "AUXILIAR TECNICO",
     "departamento": "FEMSA - PORTO ALEGRE PL/UO - 01 145000208",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2068347,
@@ -6009,7 +6009,7 @@
     "cpf": "00033767610",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "FUNCIONARIOS AFASTADOS - CONST - 01 001001000",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2075097,
@@ -6045,7 +6045,7 @@
     "cpf": "8928154421",
     "cargo": "PEDREIRO - 01 00391",
     "departamento": "GRU - AMPLIACAO GRANDE SALA 10 - 01 116000400",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2075113,
@@ -6063,7 +6063,7 @@
     "cpf": "09492258862",
     "cargo": "AJUDANTE GERAL - 01 00014",
     "departamento": "FUNCIONARIOS AFASTADOS - CONST - 01 001001000",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2075122,
@@ -6108,7 +6108,7 @@
     "cpf": "32695751818",
     "cargo": "ARMADOR - 01 00124",
     "departamento": "EQUINIX SP7X - 01 002103000",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2075143,
@@ -6162,7 +6162,7 @@
     "cpf": "50170088880",
     "cargo": "INSPETOR QUALIDADE - 01 00336",
     "departamento": "AENA - PICK UP CONGONHAS - 01 014100100",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2075181,
@@ -6846,7 +6846,7 @@
     "cpf": "02745125800",
     "cargo": "ELETRICISTA I - 01 00260",
     "departamento": "GRU - PISO E T2 1010811 - 01 116000600",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285788,
@@ -6855,7 +6855,7 @@
     "cpf": "03227046504",
     "cargo": "AUX LIMPEZA - 01 00183",
     "departamento": "FULWOOD GALPAO SC - 01 240000200",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285790,
@@ -6873,7 +6873,7 @@
     "cpf": "04585742018",
     "cargo": "ALMOXARIFE SR - 01 00021",
     "departamento": "FULWOOD GALPAO SC - 01 240000200",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285792,
@@ -6882,7 +6882,7 @@
     "cpf": "04680385588",
     "cargo": "ENCANADOR - 01 00284",
     "departamento": "AFONSO FRANCA TEMPLO LONDRINA - 01 001403000",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285797,
@@ -6900,7 +6900,7 @@
     "cpf": "09605973952",
     "cargo": "AJUDANTE GERAL - 01 00014",
     "departamento": "AFONSO FRANCA TEMPLO LONDRINA - 01 001403000",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285849,
@@ -6918,7 +6918,7 @@
     "cpf": "17460041858",
     "cargo": "AUX LIMPEZA - 01 00183",
     "departamento": "GRU - PISO E T2 1010811 - 01 116000600",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285884,
@@ -6945,7 +6945,7 @@
     "cpf": "23978114801",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "GRU- BOULEVARD 1010811 - 01 116000500",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285889,
@@ -6963,7 +6963,7 @@
     "cpf": "33441252810",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "GRU - AMPLIACAO GRANDE SALA 10 - 01 116000400",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285895,
@@ -6972,7 +6972,7 @@
     "cpf": "35264137897",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "GRU - AMPLIACAO GRANDE SALA 10 - 01 116000400",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285899,
@@ -6981,7 +6981,7 @@
     "cpf": "36173765845",
     "cargo": "PEDREIRO - 01 00391",
     "departamento": "AENA - PICK UP CONGONHAS - 01 014100100",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285901,
@@ -7035,7 +7035,7 @@
     "cpf": "43628734819",
     "cargo": "AJUDANTE GERAL - 01 00014",
     "departamento": "FULWOOD GALPAO SC - 01 240000200",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285913,
@@ -7053,7 +7053,7 @@
     "cpf": "44153620874",
     "cargo": "PEDREIRO - 01 00391",
     "departamento": "GRU- BOULEVARD 1010811 - 01 116000500",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285915,
@@ -7080,7 +7080,7 @@
     "cpf": "45571215860",
     "cargo": "AJUDANTE ELETRICISTA",
     "departamento": "GRU- BOULEVARD 1010811 - 01 116000500",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285918,
@@ -7107,7 +7107,7 @@
     "cpf": "47698321843",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "GRU - AMPLIACAO GRANDE SALA 10 - 01 116000400",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285924,
@@ -7161,7 +7161,7 @@
     "cpf": "78763029391",
     "cargo": "ENC OBRAS - 01 00282",
     "departamento": "FULWOOD GALPAO SC - 01 240000200",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285940,
@@ -7170,7 +7170,7 @@
     "cpf": "80159197970",
     "cargo": "AJUDANTE GERAL - 01 00014",
     "departamento": "AFONSO FRANCA TEMPLO LONDRINA - 01 001403000",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2285941,
@@ -7323,7 +7323,7 @@
     "cpf": "13213758671",
     "cargo": "ALMOXARIFE PL - 01 00020",
     "departamento": "GRU- BOULEVARD 1010811 - 01 116000500",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2286737,
@@ -7341,7 +7341,7 @@
     "cpf": "23719891852",
     "cargo": "AJUDANTE GERAL - 01 00014",
     "departamento": "GRU- BOULEVARD 1010811 - 01 116000500",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2286766,
@@ -7530,7 +7530,7 @@
     "cpf": "44944130899",
     "cargo": "1/2 OFICIAL - 01 00006",
     "departamento": "BRADESCO _MANUT ALPHAVILLE FIL - 01 091000601",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2286796,
@@ -8034,7 +8034,7 @@
     "cpf": "03877314902",
     "cargo": "PEDREIRO - 01 00391",
     "departamento": "FULWOOD GALPAO SC - 01 240000200",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2369197,
@@ -8043,7 +8043,7 @@
     "cpf": "06359821702",
     "cargo": "PEDREIRO - 01 00391",
     "departamento": "GRU- BOULEVARD 1010811 - 01 116000500",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2369200,
@@ -8052,7 +8052,7 @@
     "cpf": "18584811800",
     "cargo": "PEDREIRO - 01 00391",
     "departamento": "GRU- BOULEVARD 1010811 - 01 116000500",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2369205,
@@ -8124,7 +8124,7 @@
     "cpf": null,
     "cargo": "PEDREIRO",
     "departamento": "FULWOOD GALPAO SC - 01 240000200",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2370171,
@@ -8961,7 +8961,7 @@
     "cpf": "31352476860",
     "cargo": "REPRESENTANTE COMERCIAL",
     "departamento": "GESTAO DE MANUT RJ - 01 000103305",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2395664,
@@ -9051,7 +9051,7 @@
     "cpf": "39724324885",
     "cargo": "TEC MICRO INFO I",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673 - 01 240050002",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2403310,
@@ -9186,7 +9186,7 @@
     "cpf": "38797591890",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "GRU - PISO E T2 1010811 - 01 116000600",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2408260,
@@ -9222,7 +9222,7 @@
     "cpf": "48127177873",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "ZAMP",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2408264,
@@ -9510,7 +9510,7 @@
     "cpf": "37902247820",
     "cargo": "ASSIST SEG TRABALHO - 01 00166",
     "departamento": "GRU - PISO E T2 1010811 - 01 116000600",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2412349,
@@ -9573,7 +9573,7 @@
     "cpf": "36014545808",
     "cargo": "ANL ADM PL - 01 00028",
     "departamento": "PRESIDENCIA - 01 000100100",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2426286,
@@ -10338,7 +10338,7 @@
     "cpf": "36783274861",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "GRU - AMPLIACAO GRANDE SALA 10 - 01 116000400",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2459613,
@@ -10581,7 +10581,7 @@
     "cpf": "36598452805",
     "cargo": "TEC MICRO INFO I",
     "departamento": "IT-DPSP/SER DESK E FIELD_50633",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2466949,
@@ -10896,7 +10896,7 @@
     "cpf": "50099705893",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "GRU - AMPLIACAO GRANDE SALA 10 - 01 116000400",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2469934,
@@ -10923,7 +10923,7 @@
     "cpf": "31940981875",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "TECNOLOGIA DA INFORMACAO",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2484083,
@@ -10986,7 +10986,7 @@
     "cpf": "16232619617",
     "cargo": "TEC MICRO INFOR II",
     "departamento": "IT-SKALA/BODYSHOP_506775",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2484139,
@@ -11022,7 +11022,7 @@
     "cpf": "44061322877",
     "cargo": "TEC MICRO INFO I",
     "departamento": "TECNOLOGIA - IT",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2484144,
@@ -11058,7 +11058,7 @@
     "cpf": "05882740894",
     "cargo": "TEC SUPORTE PL",
     "departamento": "IT-BANCO BS2/SD _ FIELD 506626",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2489264,
@@ -11121,7 +11121,7 @@
     "cpf": "42534443852",
     "cargo": "AJUDANTE GERAL",
     "departamento": "GRU - PISO E T2 1010811",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2490588,
@@ -11139,7 +11139,7 @@
     "cpf": "25686578800",
     "cargo": "AJUDANTE GERAL",
     "departamento": "GRU - PISO E T2 1010811",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2490590,
@@ -11238,7 +11238,7 @@
     "cpf": "85544841420",
     "cargo": "AJUDANTE GERAL",
     "departamento": "GRU - PISO E T2 1010811",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2494180,
@@ -11247,7 +11247,7 @@
     "cpf": "04467267450",
     "cargo": "PEDREIRO",
     "departamento": "GRU- BOULEVARD 1010811",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2494193,
@@ -11283,7 +11283,7 @@
     "cpf": "35877760831",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "SIEMENS - MANUTENCAO E LIMPEZA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2494198,
@@ -12777,7 +12777,7 @@
     "cpf": "45101203890",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-DPSP/SER DESK E FIELD_50633",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2502988,
@@ -12786,7 +12786,7 @@
     "cpf": "42046091809",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-DPSP/SER DESK E FIELD_50633",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2502989,
@@ -12804,7 +12804,7 @@
     "cpf": "46547857875",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-DPSP/SER DESK E FIELD_50633",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2502991,
@@ -12822,7 +12822,7 @@
     "cpf": "38418846879",
     "cargo": "PEDREIRO",
     "departamento": "GRU- BOULEVARD 1010811",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2502995,
@@ -13083,7 +13083,7 @@
     "cpf": null,
     "cargo": "ANL PLANEJAMENTO SR",
     "departamento": "FEMSA LPU FLPU 2025 FILIAL",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2504120,
@@ -13128,7 +13128,7 @@
     "cpf": null,
     "cargo": "ANL DE SUPORTE PL",
     "departamento": "IT-LEO MADEIRAS/SER DESK _FIELD 506251",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2504129,
@@ -13182,7 +13182,7 @@
     "cpf": null,
     "cargo": "ENCARREGADO DE OBRAS",
     "departamento": "AENA - PICK UP CONGONHAS",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2504138,
@@ -13191,7 +13191,7 @@
     "cpf": "98265440782",
     "cargo": "COORD MANUTENCAO",
     "departamento": "GESTAO MANUT RJ 2025",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2504139,
@@ -13200,7 +13200,7 @@
     "cpf": "12335929712",
     "cargo": "TECNICO DE PLANEJAMENTO E CONTROLE",
     "departamento": "FULWOOD_ML - SC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2504140,
@@ -13227,7 +13227,7 @@
     "cpf": null,
     "cargo": "SECRETÁRIA",
     "departamento": "ADMINISTRATIVO",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2505945,
@@ -13713,7 +13713,7 @@
     "cpf": "29731802878",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-DPSP/SER DESK E FIELD_506334",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2506472,
@@ -14415,7 +14415,7 @@
     "cpf": null,
     "cargo": "TEC REFRIGERACAO I",
     "departamento": "TELEFONICA_CHUCI CONTR MANUTENCAO",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2516933,
@@ -14523,7 +14523,7 @@
     "cpf": "32501338847",
     "cargo": "TEC SEG TRABALHO",
     "departamento": "GRU - PISO E T2 1010811",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2521125,
@@ -14532,7 +14532,7 @@
     "cpf": "36219074831",
     "cargo": "AJUDANTE ELETRICISTA",
     "departamento": "AENA - PICK UP CONGONHAS",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2521126,
@@ -14541,7 +14541,7 @@
     "cpf": "08869554325",
     "cargo": "AJUDANTE ELETRICISTA",
     "departamento": "AENA - PICK UP CONGONHAS",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2521772,
@@ -14937,7 +14937,7 @@
     "cpf": "51978786816",
     "cargo": "ASSIST PLANEJAMENTO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2522490,
@@ -14946,7 +14946,7 @@
     "cpf": "46698042862",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "FEMSA - SUMARE",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2522491,
@@ -14955,7 +14955,7 @@
     "cpf": "04940819884",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "INNOVA INSPIRA ITAIM MANUT PRE",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2522492,
@@ -15486,7 +15486,7 @@
     "cpf": "51878094823",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - OBRA PROJETO ORACL LAP",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2523366,
@@ -15648,7 +15648,7 @@
     "cpf": "39470998863",
     "cargo": "ELETRICISTA",
     "departamento": "GRU- BOULEVARD 1010811",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538335,
@@ -15657,7 +15657,7 @@
     "cpf": "04173770537",
     "cargo": "TEC SEG TRABALHO",
     "departamento": "AENA - PICK UP CONGONHAS",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538336,
@@ -15666,7 +15666,7 @@
     "cpf": "27163914830",
     "cargo": "TEC SEG TRABALHO II",
     "departamento": "AENA - PICK UP CONGONHAS",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538337,
@@ -15675,7 +15675,7 @@
     "cpf": "39774095812",
     "cargo": "ANL MARKETING",
     "departamento": "MARKETING",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538338,
@@ -15684,7 +15684,7 @@
     "cpf": "41590308824",
     "cargo": "ANL DP PL",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA GUERLANDI DA SILVA"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 2538339,
@@ -15702,7 +15702,7 @@
     "cpf": "43498908820",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "GESTAO VOLANTES SP",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538341,
@@ -15711,7 +15711,7 @@
     "cpf": "16280454770",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - SUDESTE",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538342,
@@ -15720,7 +15720,7 @@
     "cpf": "04010346159",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538343,
@@ -15729,7 +15729,7 @@
     "cpf": "45188833816",
     "cargo": "OPERADOR BMS II",
     "departamento": "GESTAO DE MANUT COM 2025",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538344,
@@ -15738,7 +15738,7 @@
     "cpf": "41846891833",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "UOL - MANUT PREDIAL 1011281 FA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538345,
@@ -15747,7 +15747,7 @@
     "cpf": "58475371825",
     "cargo": "AUX REFRIGERACAO",
     "departamento": "UOL - MANUT PREDIAL 1011281 FA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538346,
@@ -15756,7 +15756,7 @@
     "cpf": "17479370881",
     "cargo": "TEC REFRIGERACAO II",
     "departamento": "TELEFONICA_CHUCI CONTR MANUTEN",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538347,
@@ -15765,7 +15765,7 @@
     "cpf": "22944579860",
     "cargo": "TEC MANUT III",
     "departamento": "TELEFONICA_CHUCI CONTR MANUTEN",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538348,
@@ -15774,7 +15774,7 @@
     "cpf": "76382117234",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538349,
@@ -15783,7 +15783,7 @@
     "cpf": "03372869737",
     "cargo": "TEC REFRIGERACAO I",
     "departamento": "CLARO - MANUT E OPERACAO DC MA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538350,
@@ -15792,7 +15792,7 @@
     "cpf": "45331049320",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538351,
@@ -15801,7 +15801,7 @@
     "cpf": "27669356812",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "FEMSA_CONTRATO DE MANUT D.NORT",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538352,
@@ -15810,7 +15810,7 @@
     "cpf": "37341551852",
     "cargo": "ELETROMECANICO",
     "departamento": "CIRION - CSL PRAIA GRANDE 1011",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538353,
@@ -15819,7 +15819,7 @@
     "cpf": "18591520742",
     "cargo": "TEC ELETROTEC I",
     "departamento": "CLARO - MANUT E OPERACAO DC MA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538354,
@@ -15828,7 +15828,7 @@
     "cpf": "36452542850",
     "cargo": "ELETRICISTA",
     "departamento": "AJINOMOTO/ MANUT PREDIAL 2024",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538355,
@@ -15837,7 +15837,7 @@
     "cpf": "15539399803",
     "cargo": "SUPERV MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538356,
@@ -15846,7 +15846,7 @@
     "cpf": "24766590880",
     "cargo": "SUPERV DE MANUT I",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538357,
@@ -15855,7 +15855,7 @@
     "cpf": "02536075826",
     "cargo": "SUPERV MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538358,
@@ -15864,7 +15864,7 @@
     "cpf": "47665265898",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538359,
@@ -15873,7 +15873,7 @@
     "cpf": "38848630880",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538360,
@@ -15882,7 +15882,7 @@
     "cpf": "38049365808",
     "cargo": "OPERADOR BMS I",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538361,
@@ -15891,7 +15891,7 @@
     "cpf": "28485656830",
     "cargo": "OPERADOR BMS I",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538362,
@@ -15900,7 +15900,7 @@
     "cpf": "34078786804",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538363,
@@ -15909,7 +15909,7 @@
     "cpf": "39195179895",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538364,
@@ -15918,7 +15918,7 @@
     "cpf": "29726292808",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538365,
@@ -15927,7 +15927,7 @@
     "cpf": "22889408833",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538366,
@@ -15936,7 +15936,7 @@
     "cpf": "47545233859",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538367,
@@ -15945,7 +15945,7 @@
     "cpf": "31660160820",
     "cargo": "MEC REFRIGERACAO I",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538368,
@@ -15954,7 +15954,7 @@
     "cpf": "34062774895",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538369,
@@ -15963,7 +15963,7 @@
     "cpf": "21525274880",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538370,
@@ -15972,7 +15972,7 @@
     "cpf": "31417185805",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538371,
@@ -15981,7 +15981,7 @@
     "cpf": "83397744334",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538372,
@@ -15990,7 +15990,7 @@
     "cpf": "09967104856",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538373,
@@ -15999,7 +15999,7 @@
     "cpf": "35107267823",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538374,
@@ -16008,7 +16008,7 @@
     "cpf": "25331009867",
     "cargo": "MEC REFRIGERACAO II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538375,
@@ -16017,7 +16017,7 @@
     "cpf": "52409328830",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538376,
@@ -16026,7 +16026,7 @@
     "cpf": "35774663833",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538377,
@@ -16035,7 +16035,7 @@
     "cpf": "39850898844",
     "cargo": "SUPERV DE MANUT I",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538378,
@@ -16044,7 +16044,7 @@
     "cpf": "26054905805",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538379,
@@ -16053,7 +16053,7 @@
     "cpf": "36048448864",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538380,
@@ -16062,7 +16062,7 @@
     "cpf": "42402808349",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538381,
@@ -16071,7 +16071,7 @@
     "cpf": "34137720827",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538382,
@@ -16080,7 +16080,7 @@
     "cpf": "37183373800",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538383,
@@ -16089,7 +16089,7 @@
     "cpf": "02871399565",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538384,
@@ -16098,7 +16098,7 @@
     "cpf": "03580824392",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538385,
@@ -16107,7 +16107,7 @@
     "cpf": "33591893889",
     "cargo": "OPERADOR BMS II",
     "departamento": "TELEFONICA_CHUCI CONTR MANUTEN",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538386,
@@ -16116,7 +16116,7 @@
     "cpf": "58411224015",
     "cargo": "ELETROMECANICO",
     "departamento": "CIRION - REGIONAL  PORTO ALEGR",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538387,
@@ -16125,7 +16125,7 @@
     "cpf": "38237650867",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "CARE PLUS - MANUTENCAO PREDIAL",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538388,
@@ -16134,7 +16134,7 @@
     "cpf": "23919712811",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "CARE PLUS - MANUTENCAO PREDIAL",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538389,
@@ -16143,7 +16143,7 @@
     "cpf": "79113168215",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538390,
@@ -16152,7 +16152,7 @@
     "cpf": "19926454852",
     "cargo": "TEC MANUT I",
     "departamento": "CIRION - CSL PRAIA GRANDE 1011",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538391,
@@ -16161,7 +16161,7 @@
     "cpf": "10179952498",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538392,
@@ -16170,7 +16170,7 @@
     "cpf": "13133088890",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538393,
@@ -16179,7 +16179,7 @@
     "cpf": "15738011864",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538394,
@@ -16188,7 +16188,7 @@
     "cpf": "48182156866",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538395,
@@ -16197,7 +16197,7 @@
     "cpf": "25508949879",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538396,
@@ -16206,7 +16206,7 @@
     "cpf": "16704644822",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538397,
@@ -16215,7 +16215,7 @@
     "cpf": "01199370509",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538398,
@@ -16224,7 +16224,7 @@
     "cpf": "50592870847",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538399,
@@ -16233,7 +16233,7 @@
     "cpf": "34620742880",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538400,
@@ -16242,7 +16242,7 @@
     "cpf": "52007355809",
     "cargo": "AUX ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538401,
@@ -16251,7 +16251,7 @@
     "cpf": "50183975863",
     "cargo": "AUX ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538402,
@@ -16260,7 +16260,7 @@
     "cpf": "00121796396",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538403,
@@ -16269,7 +16269,7 @@
     "cpf": "42016303824",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538404,
@@ -16278,7 +16278,7 @@
     "cpf": "29023622855",
     "cargo": "TEC PLAN E CONTROLE",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538405,
@@ -16287,7 +16287,7 @@
     "cpf": "17627353858",
     "cargo": "ESPEC INFRAESTRUTURA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538406,
@@ -16296,7 +16296,7 @@
     "cpf": "40164350802",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538407,
@@ -16305,7 +16305,7 @@
     "cpf": "41034264893",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538408,
@@ -16314,7 +16314,7 @@
     "cpf": "22684564809",
     "cargo": "MEC REFRIGERACAO III",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538409,
@@ -16323,7 +16323,7 @@
     "cpf": "28942364845",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538410,
@@ -16332,7 +16332,7 @@
     "cpf": "07473049712",
     "cargo": "TEC REFRIGERACAO I",
     "departamento": "CLARO - MANUT E OPERACAO DC MA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538411,
@@ -16341,7 +16341,7 @@
     "cpf": "60425434311",
     "cargo": "ALMOXARIFE JR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538412,
@@ -16350,7 +16350,7 @@
     "cpf": "91260264300",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538413,
@@ -16359,7 +16359,7 @@
     "cpf": "15405065765",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538414,
@@ -16368,7 +16368,7 @@
     "cpf": "09324936700",
     "cargo": "ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538415,
@@ -16377,7 +16377,7 @@
     "cpf": "13678152740",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538416,
@@ -16386,7 +16386,7 @@
     "cpf": "19042583797",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538417,
@@ -16395,7 +16395,7 @@
     "cpf": "10932918778",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538418,
@@ -16404,7 +16404,7 @@
     "cpf": "07203352722",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538419,
@@ -16413,7 +16413,7 @@
     "cpf": "01245170724",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538420,
@@ -16422,7 +16422,7 @@
     "cpf": "14446754785",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538421,
@@ -16431,7 +16431,7 @@
     "cpf": "01147014744",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538422,
@@ -16440,7 +16440,7 @@
     "cpf": "32910724808",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538423,
@@ -16449,7 +16449,7 @@
     "cpf": "18890226757",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538424,
@@ -16458,7 +16458,7 @@
     "cpf": "18186482709",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538425,
@@ -16467,7 +16467,7 @@
     "cpf": "70386588406",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538426,
@@ -16476,7 +16476,7 @@
     "cpf": "19378830781",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538427,
@@ -16485,7 +16485,7 @@
     "cpf": "15184645721",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538428,
@@ -16494,7 +16494,7 @@
     "cpf": "13846333751",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538429,
@@ -16503,7 +16503,7 @@
     "cpf": "14693253731",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538430,
@@ -16512,7 +16512,7 @@
     "cpf": "10516911767",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538431,
@@ -16521,7 +16521,7 @@
     "cpf": "09986135761",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538432,
@@ -16530,7 +16530,7 @@
     "cpf": "15528165750",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538433,
@@ -16539,7 +16539,7 @@
     "cpf": "12039855769",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538434,
@@ -16548,7 +16548,7 @@
     "cpf": "09419293700",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538435,
@@ -16557,7 +16557,7 @@
     "cpf": "20164808744",
     "cargo": "ESTAGIARIO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538436,
@@ -16566,7 +16566,7 @@
     "cpf": "12007312719",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538437,
@@ -16575,7 +16575,7 @@
     "cpf": "09061994764",
     "cargo": "COMPRADOR PL",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538438,
@@ -16584,7 +16584,7 @@
     "cpf": "16284874707",
     "cargo": "OPERADOR CREMALHEIRA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538440,
@@ -16593,7 +16593,7 @@
     "cpf": "07778878780",
     "cargo": "SUP INSPECOES",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538441,
@@ -16602,7 +16602,7 @@
     "cpf": "09816109786",
     "cargo": "SUPERVISOR QUALIDADE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538442,
@@ -16611,7 +16611,7 @@
     "cpf": "12183745789",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538443,
@@ -16620,7 +16620,7 @@
     "cpf": "13636636740",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538444,
@@ -16629,7 +16629,7 @@
     "cpf": "20299246795",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538446,
@@ -16638,7 +16638,7 @@
     "cpf": "22946538745",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538447,
@@ -16647,7 +16647,7 @@
     "cpf": "07562324735",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538448,
@@ -16656,7 +16656,7 @@
     "cpf": "15322256792",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538449,
@@ -16665,7 +16665,7 @@
     "cpf": "15218721719",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538450,
@@ -16674,7 +16674,7 @@
     "cpf": "13968468759",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538452,
@@ -16683,7 +16683,7 @@
     "cpf": "15858151795",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538453,
@@ -16692,7 +16692,7 @@
     "cpf": "00044986742",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538454,
@@ -16701,7 +16701,7 @@
     "cpf": "08312164766",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538455,
@@ -16710,7 +16710,7 @@
     "cpf": "16467386752",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538456,
@@ -16719,7 +16719,7 @@
     "cpf": "62257557301",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538457,
@@ -16728,7 +16728,7 @@
     "cpf": "14883258718",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538458,
@@ -16737,7 +16737,7 @@
     "cpf": "08545023782",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538459,
@@ -16746,7 +16746,7 @@
     "cpf": "08457477706",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538460,
@@ -16755,7 +16755,7 @@
     "cpf": "13686071797",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538461,
@@ -16764,7 +16764,7 @@
     "cpf": "06405064379",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538462,
@@ -16773,7 +16773,7 @@
     "cpf": "06688280728",
     "cargo": "ESTAGIARIO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538463,
@@ -16782,7 +16782,7 @@
     "cpf": "09507314717",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538464,
@@ -16791,7 +16791,7 @@
     "cpf": "08966500730",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538465,
@@ -16800,7 +16800,7 @@
     "cpf": "10318618745",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2538466,
@@ -16809,7 +16809,7 @@
     "cpf": "13292416736",
     "cargo": "ESTAGIARIO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2541893,
@@ -16890,7 +16890,7 @@
     "cpf": "37304328851",
     "cargo": "ANL DE SUPORTE PL",
     "departamento": "IT-LEO MADEIRASSER DESK FIELD 506251",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2542217,
@@ -16944,7 +16944,7 @@
     "cpf": "21332149847",
     "cargo": "ALMOXARIFE SR",
     "departamento": "EQUINIX SP6X",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548313,
@@ -16953,7 +16953,7 @@
     "cpf": "12391350848",
     "cargo": "AUX LIMPEZA",
     "departamento": "EQUINIX SP6X",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548314,
@@ -16962,7 +16962,7 @@
     "cpf": "46996483808",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548315,
@@ -16971,7 +16971,7 @@
     "cpf": "32559584824",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548316,
@@ -16980,7 +16980,7 @@
     "cpf": "21658450841",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRESCO - MANUTENCAO PREDIAL -",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548317,
@@ -16989,7 +16989,7 @@
     "cpf": "06066817523",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "ISE SCHOOL - MANUTENCAO PREDIA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548318,
@@ -16998,7 +16998,7 @@
     "cpf": "76032370410",
     "cargo": "SUPERV MANUT",
     "departamento": "UOL - MANUT PREDIAL 1011281 FA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548319,
@@ -17007,7 +17007,7 @@
     "cpf": "87650509591",
     "cargo": "MEC REFRIGERACAO II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548320,
@@ -17016,7 +17016,7 @@
     "cpf": "64397831653",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548321,
@@ -17025,7 +17025,7 @@
     "cpf": "34002776816",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548322,
@@ -17034,7 +17034,7 @@
     "cpf": "37534636809",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548323,
@@ -17043,7 +17043,7 @@
     "cpf": "40160745845",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548324,
@@ -17052,7 +17052,7 @@
     "cpf": "39122163808",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548325,
@@ -17061,7 +17061,7 @@
     "cpf": "22801388831",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548326,
@@ -17070,7 +17070,7 @@
     "cpf": "09241794810",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548327,
@@ -17079,7 +17079,7 @@
     "cpf": "00919611303",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548328,
@@ -17088,7 +17088,7 @@
     "cpf": "32029409880",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548329,
@@ -17097,7 +17097,7 @@
     "cpf": "46412190015",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548330,
@@ -17106,7 +17106,7 @@
     "cpf": "70198671466",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548331,
@@ -17115,7 +17115,7 @@
     "cpf": "52606963873",
     "cargo": "AUX ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548332,
@@ -17124,7 +17124,7 @@
     "cpf": "03197554361",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548333,
@@ -17133,7 +17133,7 @@
     "cpf": "42779246898",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548334,
@@ -17142,7 +17142,7 @@
     "cpf": "47494262881",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548335,
@@ -17151,7 +17151,7 @@
     "cpf": "41275864864",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548336,
@@ -17160,7 +17160,7 @@
     "cpf": "21511459808",
     "cargo": "AUX ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548337,
@@ -17169,7 +17169,7 @@
     "cpf": "46275526882",
     "cargo": "MEC REFRIGERACAO I",
     "departamento": "UNICHARM JAGUARIUNA MANUT HVAC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548338,
@@ -17178,7 +17178,7 @@
     "cpf": "44861099889",
     "cargo": "ANL ADMINISTRATIVO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548339,
@@ -17187,7 +17187,7 @@
     "cpf": "46446725809",
     "cargo": "TEC SEG TRABALHO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548340,
@@ -17196,7 +17196,7 @@
     "cpf": "23256794890",
     "cargo": "OPERADOR BMS I",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548341,
@@ -17205,7 +17205,7 @@
     "cpf": "05863557826",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548342,
@@ -17214,7 +17214,7 @@
     "cpf": "33040017861",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548343,
@@ -17223,7 +17223,7 @@
     "cpf": "38379539800",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548344,
@@ -17232,7 +17232,7 @@
     "cpf": "29004149899",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548345,
@@ -17241,7 +17241,7 @@
     "cpf": "39760067854",
     "cargo": "1/2 OFICIAL",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548346,
@@ -17250,7 +17250,7 @@
     "cpf": "40512832838",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548347,
@@ -17259,7 +17259,7 @@
     "cpf": "12798466822",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548348,
@@ -17268,7 +17268,7 @@
     "cpf": "27651840895",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548349,
@@ -17277,7 +17277,7 @@
     "cpf": "16817197899",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548350,
@@ -17286,7 +17286,7 @@
     "cpf": "29271305825",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548351,
@@ -17295,7 +17295,7 @@
     "cpf": "02281418189",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548352,
@@ -17304,7 +17304,7 @@
     "cpf": "05571837667",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548353,
@@ -17313,7 +17313,7 @@
     "cpf": "02347328220",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548354,
@@ -17322,7 +17322,7 @@
     "cpf": "05757200502",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548355,
@@ -17331,7 +17331,7 @@
     "cpf": "47329501832",
     "cargo": "AUX REFRIGERACAO",
     "departamento": "SIEMENS - MANUTENCAO E LIMPEZA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548356,
@@ -17340,7 +17340,7 @@
     "cpf": "08690566899",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "GESTAO VOLANTES SP",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548357,
@@ -17349,7 +17349,7 @@
     "cpf": "41247023885",
     "cargo": "OP DATA CENTER JR",
     "departamento": "NEXTSTREAM - CIC - MANUT RENOV",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548358,
@@ -17358,7 +17358,7 @@
     "cpf": "11570696730",
     "cargo": "TEC REFRIGERACAO III",
     "departamento": "CLARO ARCON 1011822",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548360,
@@ -17367,7 +17367,7 @@
     "cpf": "04040433483",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "SIEMENS - MANUTENCAO E LIMPEZA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548361,
@@ -17376,7 +17376,7 @@
     "cpf": "41125405821",
     "cargo": "ANL PLANEJAMENTO JR",
     "departamento": "CIRION -CONTRATO DE MANUT INFR",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548362,
@@ -17385,7 +17385,7 @@
     "cpf": "16537943728",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO RJ MANUT INFRA 2025",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548363,
@@ -17394,7 +17394,7 @@
     "cpf": "48010330833",
     "cargo": "OP DATA CENTER JR",
     "departamento": "NEXTSTREAM NDC - MANUT RENOV",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548364,
@@ -17403,7 +17403,7 @@
     "cpf": "39716640838",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "ISE SCHOOL - MANUTENCAO PREDIA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548365,
@@ -17412,7 +17412,7 @@
     "cpf": "32729635882",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "ISE SCHOOL - MANUTENCAO PREDIA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548366,
@@ -17421,7 +17421,7 @@
     "cpf": "39431875861",
     "cargo": "LID MANUTENCAO",
     "departamento": "UOL - MANUT PREDIAL 1011281 FA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548367,
@@ -17430,7 +17430,7 @@
     "cpf": "41681539837",
     "cargo": "ELETRICISTA",
     "departamento": "UOL - MANUTENCAO PREDIAL 10112",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548368,
@@ -17439,7 +17439,7 @@
     "cpf": "47325082860",
     "cargo": "AUX MANUTENCAO",
     "departamento": "UOL - MANUT PREDIAL 1011281 FA",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548369,
@@ -17448,7 +17448,7 @@
     "cpf": "60232919534",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548370,
@@ -17457,7 +17457,7 @@
     "cpf": "30907762867",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548371,
@@ -17466,7 +17466,7 @@
     "cpf": "23333608871",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548372,
@@ -17475,7 +17475,7 @@
     "cpf": "44861521823",
     "cargo": "AUX ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548373,
@@ -17484,7 +17484,7 @@
     "cpf": "43814597842",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548374,
@@ -17493,7 +17493,7 @@
     "cpf": "50414450876",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548375,
@@ -17502,7 +17502,7 @@
     "cpf": "39208449807",
     "cargo": "MEC REFRIGERACAO II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548376,
@@ -17511,7 +17511,7 @@
     "cpf": "36632099890",
     "cargo": "MEC REFRIGERACAO III",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548377,
@@ -17520,7 +17520,7 @@
     "cpf": "44447336839",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548378,
@@ -17529,7 +17529,7 @@
     "cpf": "14923154861",
     "cargo": "MEC REFRIGERACAO II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548379,
@@ -17538,7 +17538,7 @@
     "cpf": "18557411804",
     "cargo": "AUX ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548380,
@@ -17547,7 +17547,7 @@
     "cpf": "14248528894",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548381,
@@ -17556,7 +17556,7 @@
     "cpf": "18613119824",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548382,
@@ -17565,7 +17565,7 @@
     "cpf": "31541543882",
     "cargo": "ELETRICISTA",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548383,
@@ -17574,7 +17574,7 @@
     "cpf": "49053976850",
     "cargo": "TEC MANUT II",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548384,
@@ -17583,7 +17583,7 @@
     "cpf": "38687912803",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
   },
   {
     "id": 2548385,
@@ -17592,6 +17592,735 @@
     "cpf": "27636547899",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2548415,
+    "nome": "S/ Gestor Direto Cadast.",
+    "email": "semgestordireto@engemon.com.br",
+    "cpf": null,
+    "cargo": "ADM",
+    "departamento": "GENTE & GESTÃO",
+    "gestorDireto": "COMUNICAÇÃO INTERNA"
+  },
+  {
+    "id": 2556222,
+    "nome": "JOAO VITOR LOURENCO LEONEL",
+    "email": "JVSART28@GMAIL.COM",
+    "cpf": "47550126860",
+    "cargo": "TEC SEG TRABALHO",
+    "departamento": "GRU- BOULEVARD 1010811",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556223,
+    "nome": "GUILHERME GOMES ROCHA",
+    "email": "GUILHERMEGOMESROCHA8@GMAIL.COM",
+    "cpf": "16122962899",
+    "cargo": "SUPERVISOR BMS",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556224,
+    "nome": "ANA ROSA MARQUES FERNANDES",
+    "email": "ANAMARQUESFR@GMAIL.COM",
+    "cpf": "05137091855",
+    "cargo": "OPERADOR BMS I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556225,
+    "nome": "JANETE DIAS MAGALHAES",
+    "email": "JANETEDIASMAGALHAES@GMAIL.COM",
+    "cpf": "34279229368",
+    "cargo": "OPERADOR BMS I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556226,
+    "nome": "DANIELE MARIA MACHADO DA SILVA",
+    "email": "DANIELEMMS19@GMAIL.COM",
+    "cpf": "36047246869",
+    "cargo": "OPERADOR BMS I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556227,
+    "nome": "SUZANA NERI MENDES",
+    "email": "SUZANANERIMENDES@GMAIL.COM",
+    "cpf": "27886754883",
+    "cargo": "OPERADOR BMS I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556228,
+    "nome": "YAN OLIVEIRA FERREIRA",
+    "email": "YAN12OLIVEIRA@GMAIL.COM",
+    "cpf": "44156568890",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556229,
+    "nome": "MARCELO DE SOUZA SANTOS",
+    "email": "CICILUZINETEK12@GMAIL.COM",
+    "cpf": "14223462857",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556230,
+    "nome": "IURE SOARES OLIVEIRA",
+    "email": "YURI.YUSETH@GMAIL.COM",
+    "cpf": "46300315886",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556231,
+    "nome": "JOAO BOSCO DOS SANTOS",
+    "email": "BOSCOSANTOS864@GMAIL.COM",
+    "cpf": "71999833600",
+    "cargo": "ESPEC INFRAESTRUTURA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556232,
+    "nome": "FABIO SANTOS DE MATOS",
+    "email": "MICKALRHUAN2010@GMAIL.COM",
+    "cpf": "01704620562",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556233,
+    "nome": "HENRIQUE DE ALMEIDA SANTOS",
+    "email": "hsantostd3@gmail.com",
+    "cpf": "50240861809",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556234,
+    "nome": "PIERRE COELHO DA SILVA",
+    "email": "PIERRECOELHO_SILVA16@HOTMAIL.COM",
+    "cpf": "39116104838",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556235,
+    "nome": "MURILO MARTINS XAVIER",
+    "email": "MX8818955@GMAIL.COM",
+    "cpf": "50748517855",
+    "cargo": "MEC REFRIGERACAO I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556236,
+    "nome": "PAULO SERGIO DOS SANTOS ARAUJO",
+    "email": "PRESIDENTEPAULO@HOTMAIL.COM",
+    "cpf": "25536533878",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556237,
+    "nome": "CAUAN DE SOUZA NOVAES",
+    "email": "CAUANDESOUZANOVAES@GMAIL.COM",
+    "cpf": "50916003884",
+    "cargo": "ESPEC INFRAESTRUTURA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556239,
+    "nome": "ROBSON FERREIRA",
+    "email": "ROBMARLEY.RTY120104@GMAIL.COM",
+    "cpf": "36260454805",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556241,
+    "nome": "GUSTAVO HEMMEL DA SILVA",
+    "email": "GUSTAVOHEMMEL19@GMAIL.COM",
+    "cpf": "44751932810",
+    "cargo": "1/2 OFICIAL",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556242,
+    "nome": "LUCAS HENRIQUE NORONHA",
+    "email": "LUCASHNORONHA@HOTMAIL.COM",
+    "cpf": "45084732886",
+    "cargo": "AUX ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556243,
+    "nome": "ADRIANO FRANCA DE SOUSA",
+    "email": "adrianinhosedan@hotmail.com",
+    "cpf": "32175896889",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556244,
+    "nome": "RICARDO PRADO DOS SANTOS",
+    "email": "RICARDO.SANTTOS0504@GMAIL.COM",
+    "cpf": "37965386810",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556245,
+    "nome": "PAULO ROBERTO FERREIRA GOMES",
+    "email": "PAULOFERREIRA_ITU@HOTMAIL.COM",
+    "cpf": "16728353801",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556246,
+    "nome": "CELIO ROBERTO DA SILVA",
+    "email": "BOMJESUS.SILVA@GMAIL.COM",
+    "cpf": "03163711499",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556247,
+    "nome": "MARIANA APARECIDA ROSA DE CAMP",
+    "email": "MARIANAROSASPO@GMAIL.COM",
+    "cpf": "29389388880",
+    "cargo": "ANL PLANEJAMENTO SR",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556248,
+    "nome": "FLAVIO JUSTINO DA SILVA",
+    "email": "FLAVIOJUSTINO8649@GMAIL.COM",
+    "cpf": "33030809846",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556249,
+    "nome": "ANDERSON FERREIRA DOS SANTOS",
+    "email": "ANDYNILL001@GMAIL.COM",
+    "cpf": "36163774809",
+    "cargo": "AUX ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556250,
+    "nome": "JANIO OTAVIANO CAVALCANTE",
+    "email": "JKKOTAVIANO@HOTMAIL.COM",
+    "cpf": "01161820590",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556251,
+    "nome": "AMARO LUIZ DE MENEZES",
+    "email": "eletrotecnicomen51@gmail.com",
+    "cpf": "45043060425",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556252,
+    "nome": "LEANDRO NERI DA CUNHA SILVA",
+    "email": "LEANDRONERY784@GMAIL.COM",
+    "cpf": "52723515842",
+    "cargo": "MEC REFRIGERACAO I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556253,
+    "nome": "JOAO VICTOR BALTAZAR SANTOS",
+    "email": "JOAOBALTAZAR8450@GMAIL.COM",
+    "cpf": "61284358313",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556254,
+    "nome": "WELINGTON RIBEIRO BONFIM COSTA",
+    "email": "WRBC.2210@GMAIL.COM",
+    "cpf": "44092898886",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556255,
+    "nome": "SAMUEL DOS SANTOS SALVADOR",
+    "email": "SAMUELSALVADOR89@GMAIL.COM",
+    "cpf": "38603050856",
+    "cargo": "OPERADOR BMS I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556257,
+    "nome": "FRANCISCO DE OLIVEIRA SILVA",
+    "email": "F.OLIVEIRASILVA35@GMAIL.COM",
+    "cpf": "12632895847",
+    "cargo": "MEC REFRIGERACAO II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556258,
+    "nome": "FABIANO SILVA COGNOLATO",
+    "email": "COGNOLATO@YAHOO.COM.BR",
+    "cpf": "15102559826",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556259,
+    "nome": "RAPHAEL GOMES DA SILVA",
+    "email": "PHOLHAS_7@HOTMAIL.COM",
+    "cpf": "17319780810",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556260,
+    "nome": "ROGERIO DA SILVA",
+    "email": "ROGERIO4609@GMAIL.COM",
+    "cpf": "16313928830",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556261,
+    "nome": "ALEX SANTOS DE JESUS",
+    "email": "ALEXX.SANTTOS81@GMAIL.COM",
+    "cpf": "29479499860",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556262,
+    "nome": "THIAGO PATRICIO DA SILVA",
+    "email": "THIAGOPATRICIO90@GMAIL.COM",
+    "cpf": "36992030850",
+    "cargo": "ESPEC INFRAESTRUTURA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556263,
+    "nome": "GUILHERME HENRIQUE SOARES",
+    "email": "GUILHERMEHENRIQUEE681@GMAIL.COM",
+    "cpf": "53556948885",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556264,
+    "nome": "DIEGO BERALDO SANTANA DA SILVA",
+    "email": "BERALDODIEGO4@GMAIL.COM",
+    "cpf": "42872342869",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556265,
+    "nome": "MOACIR ARAUJO DE MELLO JUNIOR",
+    "email": "MECDA.LANINHA@GMAIL.COM",
+    "cpf": "77994310672",
+    "cargo": "SUPERV MANUT",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556266,
+    "nome": "ROBISON CANO",
+    "email": "ROBISONCANO70@GMAIL.COM",
+    "cpf": "15229607831",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556267,
+    "nome": "VINICIUS FELIX DYDIMO",
+    "email": "VINICIUSFELIXDYDIMO@GMAIL.COM",
+    "cpf": "47230723817",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556268,
+    "nome": "RILDO ALMEIDA DE SOUZA",
+    "email": "RILDORIOSSOUZA@GMAIL.COM",
+    "cpf": "22740640838",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556269,
+    "nome": "ALESSANDRO OLIVEIRA DA SILVA",
+    "email": "atosbolado@live.com",
+    "cpf": "70984164448",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556270,
+    "nome": "ELY SANTOS OLIVEIRA",
+    "email": "JSRAD@HOTMAIL.COM",
+    "cpf": "29367858809",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556272,
+    "nome": "GONCALO CASSIMIRO DA SILVA",
+    "email": "GONCALOCJR9@GMAIL.COM",
+    "cpf": "27579400820",
+    "cargo": "ESPEC INFRAESTRUTURA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556273,
+    "nome": "DAVID JOSE DE LIMA",
+    "email": "DAVIDEIVERSON47@GMAIL.COM",
+    "cpf": "20003814807",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556274,
+    "nome": "CARLOS DOS SANTOS",
+    "email": "CARLOSCS1989@GMAIL.COM",
+    "cpf": "37445250824",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556275,
+    "nome": "LUIZ HENRIQUE SALINA SANTOS",
+    "email": "SALINASLUIZHENRIQUE@GMAIL.COM",
+    "cpf": "00939220270",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556276,
+    "nome": "VALQUENIR GONCALVES DE AGUIAR",
+    "email": "quenir@hotmail.com",
+    "cpf": "12590331800",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "GESTAO VOLANTES SP",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556277,
+    "nome": "GILBERTO FURTADO COUTINHO",
+    "email": "GILBERTFILHO123@GMAIL.COM",
+    "cpf": "07575221492",
+    "cargo": "AUXILIAR TECNICO",
+    "departamento": "FEMSA - MARILIA PL/UO",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556278,
+    "nome": "DARLAN BULHOES NASCIMENTO ABRE",
+    "email": "DARLAN.ABREU0512@GMAIL.COM",
+    "cpf": "44026227863",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CIRION - REGIONAL  COTIA 10112",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556279,
+    "nome": "RAFAEL LOPES DA SILVA",
+    "email": "DLOBOY61@GMAIL.COM",
+    "cpf": "34537831820",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "GESTAO VOLANTES SP",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556280,
+    "nome": "DOUGLAS BARBOSA DE ALMEIDA",
+    "email": "barbosa.douglas@yahoo.com.br",
+    "cpf": "39701277856",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "UOL - MANUT PREDIAL 1011281 FA",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556281,
+    "nome": "JULIA CARDIN LAMEIRINHAS",
+    "email": "JULAMEIRINHAS@GMAIL.COM",
+    "cpf": "53246847835",
+    "cargo": "AUX ADM",
+    "departamento": "TELEFONICA_CHUCI CONTR MANUTEN",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556282,
+    "nome": "SAMUEL FERNANDO RODRIGUES",
+    "email": "SA.TCHELO@GMAIL.COM",
+    "cpf": "31842596845",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "FEMSA - MACRO CD",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556283,
+    "nome": "CLAUDIO OLIVEIRA DA HORA",
+    "email": "CLAUDIOODAHORA@GMAIL.COM",
+    "cpf": "12397234823",
+    "cargo": "MEC REFRIGERACAO II",
+    "departamento": "SKY MANUT TAMBORE FILIAL 2024",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556284,
+    "nome": "NICOLAS CAMARGO NICOLIELLO",
+    "email": "camargon083@gmail.com",
+    "cpf": "54140372800",
+    "cargo": "AUX REFRIGERACAO",
+    "departamento": "UNICHARM JAGUARIUNA MANUT HVAC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556285,
+    "nome": "EDVANDRO SOARES DA SILVA",
+    "email": "EDVANDRO.SOARES7777@GMAIL.COM",
+    "cpf": "03374215440",
+    "cargo": "AUX ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556286,
+    "nome": "JUAN CAMARGO DOS PASSOS SANTOS",
+    "email": "JUANNCAMARGO123.JC@GMAIL.COM",
+    "cpf": "51220331880",
+    "cargo": "AUX ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556287,
+    "nome": "ANTONIO DOS SANTOS ESCOLASTICO",
+    "email": "NEGAOEFIA@GMAIL.COM",
+    "cpf": "30822788845",
+    "cargo": "SERRALHEIRO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556288,
+    "nome": "AGNALDO ZEFERINO DOS SANTOS",
+    "email": "AGNALDOZZEFERINO@GMAIL.COM",
+    "cpf": "26703219842",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556289,
+    "nome": "REGINALDO DIAS DE OLIVEIRA JUN",
+    "email": "JNIORDIAS.M2@GMAIL.COM",
+    "cpf": "41004220839",
+    "cargo": "1/2 OFICIAL",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556290,
+    "nome": "LUAN VICTOR SOUZA DA SILVA",
+    "email": "LUANVICTORSOUZADASILVA@GMAIL.COM",
+    "cpf": "08693540351",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556291,
+    "nome": "CAIO PATRICK SANTOS",
+    "email": "CAIO.MARTINS1208@GMAIL.COM",
+    "cpf": "17965360756",
+    "cargo": "MONTADOR DE ESTRUTUR",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556292,
+    "nome": "LEOMAR LIRA LIMA",
+    "email": "LEOMARLIRALIMA@GMAIL.COM",
+    "cpf": "05607360377",
+    "cargo": "MONTADOR DE ESTRUTUR",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556293,
+    "nome": "ROBERTO SOUZA DOS SANTOS",
+    "email": "RZMIUDO2017@GMAIL.COM",
+    "cpf": "03266994736",
+    "cargo": "PEDREIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556294,
+    "nome": "ANGELO ALMEIDA DE MATTOS",
+    "email": "Angeloalmeida723@gmail.com",
+    "cpf": "05916563701",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556295,
+    "nome": "ROMILDO DE ALMEIDA SIMOES",
+    "email": "ROMILDO2340@GMAIL.COM",
+    "cpf": "89407865568",
+    "cargo": "ENC OBRAS",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556296,
+    "nome": "ADRIANO MOREIRA DA SILVA",
+    "email": "ADRIANOMOREIRA91230@GMAIL.COM",
+    "cpf": "10677738781",
+    "cargo": "ENC OBRAS",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556297,
+    "nome": "WANDERLEY SERRA RIBEIRO",
+    "email": "VANDYRIB@GMAIL.COM",
+    "cpf": "08332998751",
+    "cargo": "PEDREIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556298,
+    "nome": "THAWAN DA CONCEICAO GOMES DE F",
+    "email": "THAWANGOMES145@GMAIL.COM",
+    "cpf": "17338616701",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556299,
+    "nome": "ALESSANDRO CASSIANO ALVES",
+    "email": "SANDROALVES312115@GMAIL.COM",
+    "cpf": "07008065477",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556300,
+    "nome": "HENRIQUE NERY DE SOUZA",
+    "email": "HENRIQUENERYDESOUZA@GMAIL.COM",
+    "cpf": "86572342549",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556301,
+    "nome": "AFONSO DE CARVALHO E SILVA",
+    "email": "AFOSINHO05@GMAIL.COM",
+    "cpf": "02999532709",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556302,
+    "nome": "WILLIAM ALMEIDA ALVES",
+    "email": "WILLALVESALMEIDA12@GMAIL.COM",
+    "cpf": "49042261862",
+    "cargo": "CARPINTEIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556303,
+    "nome": "EDIVALDO ALVES DA SILVA",
+    "email": "ALVES.ESIVALDO@YAHOO.COM.BR",
+    "cpf": "02238757759",
+    "cargo": "PEDREIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556304,
+    "nome": "JOSELIO DE JESUS SILVA",
+    "email": "JOSELIOF22@GMAIL.COM",
+    "cpf": "23794100549",
+    "cargo": "ENC OBRAS",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
+  },
+  {
+    "id": 2556305,
+    "nome": "RAPHAEL PINTO SIQUEIRA",
+    "email": "RAPHAELMIGUEL13@GMAIL.COM",
+    "cpf": "12595908790",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "S/ Gestor Direto Cadast."
   }
 ]
