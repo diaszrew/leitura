@@ -4992,7 +4992,7 @@
     "cpf": "34370726840",
     "cargo": "engenheiro",
     "departamento": "OPERATION SERVICES",
-    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
+    "gestorDireto": "ALEXANDRE GUILHERME DE FIGUEIREDO"
   },
   {
     "id": 2271018,
@@ -10404,22 +10404,13 @@
     "gestorDireto": "MATHEUS URBAN DE CARVALHO"
   },
   {
-    "id": 2504135,
-    "nome": "MARCIO DA SILVA SOUZA",
-    "email": "marciodasilvasouza884@gmail.com",
-    "cpf": null,
-    "cargo": "ENCARREGADO DE OBRAS",
-    "departamento": "AENA - PICK UP CONGONHAS",
-    "gestorDireto": "S/ Gestor Direto Cadast."
-  },
-  {
     "id": 2504138,
     "nome": "MAX FABIANI CALIL GUIMARAES",
     "email": "max.guimaraes@engemon.com.br",
     "cpf": "98265440782",
     "cargo": "COORD MANUTENCAO",
     "departamento": "GESTAO MANUT RJ 2025",
-    "gestorDireto": "S/ Gestor Direto Cadast."
+    "gestorDireto": "JAYME TADEU SALLE"
   },
   {
     "id": 2504139,
@@ -12300,7 +12291,7 @@
     "cpf": "08867072773",
     "cargo": "GERENTE DE CONTRATOS",
     "departamento": "OPERATION SERVICES",
-    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
+    "gestorDireto": "ANDERSON DA SILVA XAVIER"
   },
   {
     "id": 2523356,
@@ -12480,7 +12471,7 @@
     "cpf": "35643186829",
     "cargo": "ANL DE PLANEJAMENTO",
     "departamento": "GESTAO DE MANUT COM 2025",
-    "gestorDireto": "ALEX DE LACERDA ZOMPERO"
+    "gestorDireto": "MARCIO JOSE DO NASCIMENTO"
   },
   {
     "id": 2535442,
@@ -17277,7 +17268,7 @@
     "cpf": "36079357852",
     "cargo": "TEC MICRO INFO I",
     "departamento": "OPERACAO GESTAO DE CLIENTES",
-    "gestorDireto": null
+    "gestorDireto": "RODRIGO LUCIO SANTANA"
   },
   {
     "id": 2607056,
@@ -17286,7 +17277,7 @@
     "cpf": "23663481859",
     "cargo": "ANL INFRAESTRUT PL",
     "departamento": "IT-BANCO BS2/SD _ FIELD 506626",
-    "gestorDireto": null
+    "gestorDireto": "ANA CARLA DA SILVA"
   },
   {
     "id": 2608535,
@@ -17953,5 +17944,23 @@
     "cargo": "GERENTE DE CONTRATOS",
     "departamento": "GESTAO OPSERVICES 2025",
     "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
+  },
+  {
+    "id": 2617816,
+    "nome": "ANDERSON DA SILVA XAVIER",
+    "email": "anderson.xavier@engemon.com.br",
+    "cpf": null,
+    "cargo": "GERENTE DE MANUTENÇÃO",
+    "departamento": "GESTAO OPSERVICES 2025",
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
+  },
+  {
+    "id": 2617897,
+    "nome": "MARCIO SILVA DOS SANTOS",
+    "email": "marcio.santos@engemon.com.br",
+    "cpf": null,
+    "cargo": "TEC CHILLER",
+    "departamento": "GESTAO OPSERVICES 2025",
+    "gestorDireto": "Sueli Dos Anjos Mendes"
   }
 ]
